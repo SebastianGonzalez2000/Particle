@@ -5,3 +5,4 @@ Minimalistic and Retro Java Game. Dodge fast and colorful enemies in this simple
 
 - Object Oriented Programming
 - Implementation of Swift
+- Java Proficiency
