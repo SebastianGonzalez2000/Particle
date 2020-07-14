@@ -4,7 +4,7 @@ Minimalistic and Retro Java Game. Dodge fast and colorful enemies in this simple
 ### What I learned in this Project
 
 - Object Oriented Programming
-- Implementation of Swift
+- Implementation of Swing
 - Java Proficiency
 
 
